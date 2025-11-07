@@ -1,5 +1,10 @@
 # Multi-Stage XSS Attack Simulation 🔒
 
+## TL;DR
+1. Clone repo
+2. Run locally in an isolated VM or Docker
+3. Do not attack public sites — lab only
+
 **Authors:** Sneha Chiliveru @snehachiliveru
              Srikota Shashank @srikotashashank
 **Author:** Sneha Chiliveru  
