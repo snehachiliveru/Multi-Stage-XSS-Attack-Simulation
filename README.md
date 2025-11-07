@@ -1,5 +1,5 @@
 # Multi-Stage XSS Attack Simulation 🔒
-## Quickstart (baby steps)
+## Quickstart
 
 1. Clone the repo:
    ```bash
