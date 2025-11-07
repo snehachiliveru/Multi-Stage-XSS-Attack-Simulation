@@ -1,6 +1,7 @@
 # Multi-Stage XSS Attack Simulation 🔒
 
-**Author:** Sneha Chiliveru  
+**Authors:** Sneha Chiliveru @snehachiliveru
+             Srikota Shashank @srikotashashank
 **Course:** Cyber Security | Major Project  
 **Date:** 10 Oct 2025
 
