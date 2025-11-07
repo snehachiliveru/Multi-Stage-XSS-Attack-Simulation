@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Logs and secrets
+Forensics_Logs/
+*.log
+
+# IDE
+.vscode/
+.idea/
