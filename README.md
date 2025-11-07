@@ -72,5 +72,9 @@ Use only in a controlled lab.
 - `Forensics_Logs/` — Example logs and HAR excerpts  
 - `SnehaChiliveru_CybersecurityProject.pdf` — Full report
 
+
 - `SnehaChiliveru_CybersecurityProject.pdf` — Full report
 cac5a97 (Initial commit)
+
+- `SnehaChiliveru_CybersecurityProject.pdf` — Full report
+ 844311b (Added Quickstart (baby steps) section)
