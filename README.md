@@ -1,4 +1,27 @@
 # Multi-Stage XSS Attack Simulation 🔒
+## Quickstart (baby steps)
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/snehachiliveru/Multi-Stage-XSS-Attack-Simulation.git
+   ```
+2. Go to the project folder:
+   ```bash
+   cd Multi-Stage-XSS-Attack-Simulation
+   ```
+3. Start the lab (if you have Docker):
+   ```bash
+   docker-compose up --build
+   ```
+   If you don’t have Docker, follow manual setup steps below.
+4. Open the lab in your browser:
+   ```
+   http://localhost:8080
+   ```
+
+> ⚠️ **Important:** Only use this in a safe test environment.  
+> Never run this on real websites or other people’s servers.
+
 
 ## TL;DR
 1. Clone repo
@@ -7,7 +30,6 @@
 
 **Authors:** Sneha Chiliveru @snehachiliveru
              Srikota Shashank @srikotashashank
-**Author:** Sneha Chiliveru  
 **Course:** Cyber Security | Major Project  
 **Date:** 10 Oct 2025
 
