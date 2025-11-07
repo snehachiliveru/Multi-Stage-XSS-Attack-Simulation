@@ -1,0 +1,8 @@
+FROM python:3.10-slim
+WORKDIR /app
+COPY safe_logger.py /app/
+RUN pip install --no-cache-dir flask
+RUN mkdir -p /app/logs
+EXPOSE 5000
+CMD ["python", "safe_logger.py"]
+
