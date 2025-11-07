@@ -48,8 +48,7 @@ Use only in a controlled lab.
 - `Mitigations/` — Secure coding examples  
 - `Proof_of_Concepts/` — Payloads and screenshots  
 - `Forensics_Logs/` — Example logs and HAR excerpts  
-<<<<<<< HEAD
 - `SnehaChiliveru_CybersecurityProject.pdf` — Full report
-=======
+
 - `SnehaChiliveru_CybersecurityProject.pdf` — Full report
->>>>>>> cac5a97 (Initial commit)
+cac5a97 (Initial commit)
